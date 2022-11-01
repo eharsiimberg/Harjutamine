@@ -1,3 +1,5 @@
 Github on avatud lähtekoodiga versioonihaldus süsteem.
 Näiteks kasutan mina seda koolis Skriptimisvahendite tunni raames.
 Githubi kasutavad ülidselt tarkvaraarendajad, et oma projekte testida.
+
+Tulevikus saan mina Githubi kasutada mõne projekti testimiseks/haldamiseks.
