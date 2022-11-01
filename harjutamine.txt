@@ -3,3 +3,5 @@ Näiteks kasutan mina seda koolis Skriptimisvahendite tunni raames.
 Githubi kasutavad ülidselt tarkvaraarendajad, et oma projekte testida.
 
 Tulevikus saan mina Githubi kasutada mõne projekti testimiseks/haldamiseks.
+
+Github lehekülgi lasti välja 2008. aasta Aprillis. Asutajatakse olid Tom Preston-Werner, Chris Wanstrath, P.J. Hyett ja Scott Chacon.
